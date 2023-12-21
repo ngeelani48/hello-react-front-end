@@ -40,7 +40,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> [Ruby on Rails](https://guides.rubyonrails.org/) (simplify as Rails) is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller (MVC) framework, providing default structures for a database, a web service, and web pages. It encourages and facilitates the use of web standards such as JSON or XML for data transfer and HTML, CSS and JavaScript for user interfacing.
+> [Ruby on Rails](https://guides.rubyonrails.org/) (simplified as Rails) is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller (MVC) framework, provides default structures for a database, a web service, and web pages. It encourages and facilitates the use of web standards such as JSON or XML for data transfer and HTML, CSS, and JavaScript for user interfacing.
 
 <details>
   <summary>Server</summary>
@@ -145,7 +145,7 @@ Not Available
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Save data in backend database
+- Save data in the backend database
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,11 +180,11 @@ If you like this project, kindly give me a ⭐️
 
 - **Is Rails still relevant?**
 
-  - [Yes, Rails is still popular among developer](https://blog.railwaymen.org/is-ruby-on-rails-dead)
+  - [Yes, Rails is still popular among developers](https://blog.railwaymen.org/is-ruby-on-rails-dead)
 
 - **Is it easy to learn Ruby on Rails**
 
-  - [It is very easy to learn compared to most of the programming languages](https://careerkarma.com/blog/why-learn-ruby-on-rails/)
+  - [It is straightforward to learn compared to most of the programming languages](https://careerkarma.com/blog/why-learn-ruby-on-rails/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
